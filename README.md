@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases who I am, what I d
 
 ## 🌐 Live Preview
 
-👉 [View Live Website]([https://yourusername.github.io/your-portfolio-repo](https://rithviksportfolio.netlify.app/))  
+👉 [View Live Website]([https://rithviksportfolio.netlify.app/])  
 
 ---
 
